@@ -34,4 +34,5 @@ It’s designed with a **simple, user-friendly interface** built in **Tkinter**,
     If you find a bug or have an idea for improvement, open an issue.
 
   You can also visit to my Linkedin account to view full project video : 
-  https://www.linkedin.com/posts/akashpoddar10_python-tkinter-steganography-activity-7362160708693733382-fPyw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETBD58Bmh3Oen7h8g1GpUlHMc6a-njUqdI
+| [Project Video on LinkedIn](https://www.linkedin.com/posts/akashpoddar10_python-tkinter-steganography-activity-7362160708693733382-fPyw?utm_source=share&utm_medium=member_android&rcm=ACoAAETBD58Bmh3Oen7h8g1GpUlHMc6a-njUqdI) |
+|---|
