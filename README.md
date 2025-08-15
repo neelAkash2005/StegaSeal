@@ -26,8 +26,8 @@ It’s designed with a **simple, user-friendly interface** built in **Tkinter**,
 
 ## 🚀 Getting Started
 
-## 🚀 Install dependencies
-   pip install pillow stegano
+## 🤹 Install dependencies
+   --> pip install pillow stegano
 
 🙌 Contributions
     Pull requests are welcome!
